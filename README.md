@@ -31,51 +31,34 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  Languages & Frameworks
     <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-
-<div align="center">
-  Frameworks & Tools
     <br/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<div align="center">
-  Databases
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</div>
-
-<div align="center">
-  Agents & LLMs
-  <br/>
-  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-</div>
-
-<br/>
-
-
 ### 🔭 Currently Working On
 * **Backend Architecture:** Designing RESTful APIs, implementing robust authentication, and working with SQL/NoSQL databases.
 * **AI Integration:** Preparing for deep dives into ML fundamentals, prompt engineering, and LLM implementations.
-* **Project LLM Areana:** A lightweight LLM model arena for quickly wiring up, routing between, and evaluating multiple models (local and API) in one place.
+* **LLM Arena:** A lightweight web app for quickly wiring up, routing between, and evaluating multiple AI models (local and API) in one place.
 
 ---
+### ⭐ Featured Projects
+- Artè Cipher(https://github.com/Of-Arte/modern-vigenere-cipher): Python CLI tool that encrypts natural language using a modern One Time Pad(OTP) engine
+and my custom Vigenère cipher.
+- Obsidian Protocol(https://github.com/Of-Arte/obsidian-chatbot): a low-latency, React/TypeScript-based options trading analyst powered by Gemini that seamlessly toggles between concise “Lite” trade ideas and in-depth “Pro” risk modeling.
+- [Project C](https://github.com/Of-Arte/PROJECT): 1 sentence; include the tech or constraint (Dockerized, Postgres, local LLM).
 
+---
 ### 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Of-Arte/Of-Arte/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 
