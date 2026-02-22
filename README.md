@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <p>I am a developer with a foundation in web development, currently completing a Bachelor of Science in Computer Science @Maestro University. 
+  <p>I am a software engineer with a foundation in web development, currently completing a Bachelor of Science in Computer Science @Maestro University. 
     <br/>My focus is bridging backend architecture with machine learning and Large Language Models to build functional production environments.</p>
 </div>
 
