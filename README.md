@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <p>I am a software engineer with a foundation in web development, currently completing a Bachelor of Science in Computer Science @Maestro University. 
+  <p>I am a software engineer with a foundation in web development, currently completing a Bachelor of Science in Computer Science @Maestro. 
     <br/>My focus is bridging backend architecture with machine learning and Large Language Models to build functional production environments.</p>
 </div>
 
@@ -42,7 +42,7 @@
 ### 🔭 Currently Executing
 * **LLM Arena:** Building a lightweight web application to route, wire, and evaluate local and API-based AI models.
 * **Backend Architecture:** Applying Object-Oriented Programming principles in Python to design modular, scalable systems.
-* **Academic Integration:** Translating core concepts from Maestro University coursework directly into functional repositories.
+* **Academic Integration:** Translating core concepts from AI Software Engineering coursework directly into functional repositories.
 
 ---
 ### ⭐ Featured Projects
