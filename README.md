@@ -46,7 +46,7 @@
 
 ---
 ### ⭐ Featured Projects
-- [Crypt Workspace](https://github.com/Of-Arte/modern-vigenere-cipher): A cryptographic CLI tool built around a modern One Time Pad (OTP) engine, demonstrating data transformation using rotating stacks/queues, Unicode normalization, and persistent JSON vault storage.
+- [Crypt Workspace](https://github.com/Of-Arte/crypt-workspace): A cryptographic CLI tool built around a modern One Time Pad (OTP) engine, demonstrating data transformation using rotating stacks/queues, Unicode normalization, and persistent JSON vault storage.
 - [Read It Later](https://github.com/Of-Arte/read-it-later/): A URL manager powered by FIFO queues and LIFO stacks. Focuses on clean Python architecture, utilizing dispatch tables for command routing and comprehensive debug tracing.
 - [Obsidian Protocol](https://obsidian-chatbot-eight.vercel.app): A React/TypeScript stock options analyst leveraging the Gemini API. Focuses on frontend state management, adaptive prompt engineering, and localized session persistence.
 
