@@ -46,9 +46,9 @@
 
 ---
 ### ⭐ Featured Projects
-- [Crypt Workspace](https://github.com/Of-Arte/crypt-workspace): A cryptographic CLI tool built around a modern One Time Pad (OTP) engine, demonstrating data transformation using rotating stacks/queues, Unicode normalization, and persistent JSON vault storage.
-- [Read It Later](https://github.com/Of-Arte/read-it-later/): A URL manager powered by FIFO queues and LIFO stacks. Focuses on clean Python architecture, utilizing dispatch tables for command routing and comprehensive debug tracing.
-- [Obsidian Protocol](https://obsidian-chatbot-eight.vercel.app): A React/TypeScript stock options analyst leveraging the Gemini API. Focuses on frontend state management, adaptive prompt engineering, and localized session persistence.
+- [Crypt Workspace](https://github.com/Of-Arte/crypt-workspace): A Python CLI tool implementing a modern One-Time Pad cipher engine built on the Vigenère cipher, with vault storage, multi-language support, and full key-mapping traceability.
+- [Read It Later](https://github.com/Of-Arte/read-it-later/): Read it later CLI is a terminal-based Python application that manages saved URLs. It uses classic data structures to organize reading workflows.
+- [Obsidian Protocol](https://obsidian-chatbot-eight.vercel.app): Built on Gemini 2.5. Helps structure defined-risk trades, evaluate greeks, and reason through risk scenarios based on your input. No live market data. For educational use only.
 
 ---
 ### 📫 Connect
