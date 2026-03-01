@@ -2,64 +2,117 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=Art%C3%A8%20Of%20Programming&fontSize=50&fontAlignY=40&desc=AI%20Software%20Engineering%20Student&descAlignY=65&descSize=20&animation=fadeIn&fontColor=ffffff" width="70%" />
 </div>
 
-<br/>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Building+Python+Backends;Architecting+RESTful+APIs;Deploying+on+Google+Cloud;Experimenting+with+Autonomous+Agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=1200&color=7B61FF&center=true&vCenter=true&width=650&height=45&lines=Building+Python+Backends;Architecting+RESTful+APIs;Deploying+on+Google+Cloud;Experimenting+with+Autonomous+Agents;Bridging+ML+and+Production+Systems" alt="Typing SVG" />
   </a>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=60&section=header&reversal=true" width="100%" />
+
 <br/>
 
 <div align="center">
-  <p>I am a software engineer with a foundation in web development, currently completing a Bachelor of Science in Computer Science @Maestro.
-    <br/>
-    My focus is bridging backend architecture with machine learning and Large Language Models to build functional production environments.</p>
-</div>
-
-<div align="center">
-  <h3>Web Development Foundation</h3>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-  <h3>Backend & Infrastructure</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-  <h3>Cloud & DevOps</h3>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <table border="0" cellspacing="0" cellpadding="12">
+    <tr>
+      <td valign="middle" align="left" width="55%">
+        <p>
+          Software engineer and AI student — currently completing a B.S. in Computer Science @Maestro.<br/><br/>
+          My work sits at the intersection of <strong>backend systems</strong>, <strong>LLM integration</strong>, and <strong>DevOps</strong>. I care about building things that actually run in production, not just in notebooks.
+        </p>
+      </td>
+      <td valign="middle" align="center" width="45%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Of-Arte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Of-Arte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-### 🛠️ Technical Focus
-* **Core Languages:** Python, JavaScript, TypeScript
-* **Backend Architecture:** OOP, RESTful APIs, Database Management
-* **Cloud & DevOps:** Containerized deployments with Docker, environment automation with Bash, and early exploration of Google Cloud for hosting and service orchestration
-* **Applied AI Trajectory:** Building toward LLM integration across real backend systems — not theoretical, working toward production
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=60&section=footer&reversal=false" width="100%" />
 
----
-
-### 🔭 Currently Executing
-* **DevOps Experiments:** Working through containerized service deployments using Docker and Bash scripting, with Google Cloud as the deployment target. Figuring out how to move local environments to the cloud without losing control of the stack.
-* **LLM Arena:** Building a lightweight web application to route, wire, and evaluate local and API-based AI models.
-* **OpenClaw — Autonomous Agent System:** Exploring agent and skill-based architecture as part of a self-directed system I'm calling OpenClaw. The idea is building an autonomous deployment layer where agents can be assigned skills and operate with minimal hand-holding. Still early — this is genuine curiosity-driven work, not a finished product. Interested in how agent orchestration, tool-use, and skill composition can be made practical rather than just impressive in demos.
-* **Academic Integration:** Translating core concepts from AI Software Engineering coursework directly into functional repositories.
-
----
+<br/>
 
 <div align="center">
 
-### ⭐ Featured Projects
+<h3>🛠️ Stack</h3>
+
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=py,js,ts,bash&theme=dark" />
+</details>
+
+<br/>
+
+<details open>
+<summary><b>Backend & Infrastructure</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,docker,git&theme=dark" />
+</details>
+
+<br/>
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,js,ts&theme=dark" />
+</details>
+
+<br/>
+
+<details open>
+<summary><b>Cloud & DevOps</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=gcp,linux,ubuntu&theme=dark" />
+</details>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7B61FF,100:00C9FF&height=60&section=header&reversal=true" width="100%" />
+
+<br/>
+
+<div align="center">
+<h3>🔭 Currently Executing</h3>
+
+<table border="0" cellspacing="0" cellpadding="10" width="90%">
+  <tr>
+    <td width="8%" align="center">📦</td>
+    <td><strong>DevOps Experiments</strong> &mdash; Containerized service deployments using Docker and Bash scripting, with Google Cloud as the deployment target. Figuring out how to move local environments to the cloud without losing control of the stack.</td>
+  </tr>
+  <tr>
+    <td align="center">🤖</td>
+    <td><strong>LLM Arena</strong> &mdash; Building a lightweight web application to route, wire, and evaluate local and API-based AI models side by side.</td>
+  </tr>
+  <tr>
+    <td align="center">🪶</td>
+    <td><strong>OpenClaw &mdash; Autonomous Agent System</strong> &mdash; Exploring agent and skill-based architecture. The goal is an autonomous deployment layer where agents are assigned skills and operate with minimal hand-holding. Still early and genuinely exploratory &mdash; interested in how agent orchestration and skill composition can be made practical rather than just impressive in demos.</td>
+  </tr>
+  <tr>
+    <td align="center">🎓</td>
+    <td><strong>Academic Integration</strong> &mdash; Translating core AI Software Engineering coursework directly into functional, committed repositories.</td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C9FF,100:7B61FF&height=60&section=footer" width="100%" />
+
+<br/>
+
+<div align="center">
+
+<h3>⭐ Featured Projects</h3>
 
 <br/>
 
@@ -117,3 +170,11 @@
 </table>
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Of-Arte&style=flat-square&color=7B61FF&label=profile+views" alt="profile views" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=80&section=footer" width="100%" />
