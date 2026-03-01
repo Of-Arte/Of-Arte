@@ -57,6 +57,63 @@
 
 ---
 
+<div align="center">
+
 ### ⭐ Featured Projects
-- [Crypt Workspace](https://github.com/Of-Arte/crypt-workspace): A Python CLI tool implementing a modern One-Time Pad cipher engine built on the Vigenère cipher, with vault storage, multi-language support, and full key-mapping traceability.
-- [Read It Later](https://github.com/Of-Arte/read-it-later/): Read it later CLI is a terminal-based Python application that manages saved URLs. It uses classic data structures to organize reading workflows.
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Of-Arte/maestro-ubuntu">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=3000&color=E95420&center=true&vCenter=true&width=280&lines=maestro-ubuntu;Ubuntu+24.04+LTS+Dev+Env" alt="maestro-ubuntu" />
+      </a>
+      <br/>
+      <a href="https://github.com/Of-Arte/maestro-ubuntu">
+        <img src="https://img.shields.io/badge/Shell-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+      </a>
+      <br/><br/>
+      <p>Standalone Ubuntu 24.04 LTS development environment built for Maestro AI Software Engineering students. Automated setup, reproducible tooling, zero config drift.</p>
+      <br/>
+      <a href="https://github.com/Of-Arte/maestro-ubuntu">
+        <img src="https://img.shields.io/badge/%E2%86%92%20View%20Repo-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Of-Arte/crypt-workspace">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=3000&color=6E40C9&center=true&vCenter=true&width=280&lines=crypt-workspace;One-Time+Pad+Cipher+Engine" alt="crypt-workspace" />
+      </a>
+      <br/>
+      <a href="https://github.com/Of-Arte/crypt-workspace">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CLI-Tool-black?style=flat-square" />
+      </a>
+      <br/><br/>
+      <p>Modern One-Time Pad cipher engine built on the Vigenère cipher. Vault storage, multi-language support, and full key-mapping traceability via the command line.</p>
+      <br/>
+      <a href="https://github.com/Of-Arte/crypt-workspace">
+        <img src="https://img.shields.io/badge/%E2%86%92%20View%20Repo-6E40C9?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Of-Arte/read-it-later/">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=3000&color=0099CC&center=true&vCenter=true&width=280&lines=read-it-later;Terminal+URL+Manager" alt="read-it-later" />
+      </a>
+      <br/>
+      <a href="https://github.com/Of-Arte/read-it-later/">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data%20Structures-CLI-0099CC?style=flat-square" />
+      </a>
+      <br/><br/>
+      <p>Terminal-based Python application that manages saved URLs using classic data structures to organize and streamline reading workflows.</p>
+      <br/>
+      <a href="https://github.com/Of-Arte/read-it-later/">
+        <img src="https://img.shields.io/badge/%E2%86%92%20View%20Repo-0099CC?style=for-the-badge&logo=python&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
