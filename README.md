@@ -8,24 +8,20 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=60&section=header&reversal=true" width="100%" />
 
 <br/>
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="12">
     <tr>
-      <td valign="middle" align="left" width="55%">
         <p>
-          Software engineer and AI student — currently completing a B.S. in Computer Science @Maestro.<br/><br/>
-          My work sits at the intersection of <strong>backend systems</strong>, <strong>LLM integration</strong>, and <strong>DevOps</strong>. I care about building things that actually run in production, not just in notebooks.
+          Software engineer and AI student currently completing a B.S. in Computer Science @Maestro.
+          <br/>
+          My work sits at the intersection of <strong>backend systems</strong>, <strong>LLM integration</strong>, and <strong>DevOps</strong>. 
+          <br/>
+          I care about building things that actually run in production.
         </p>
-      </td>
-      <td valign="middle" align="center" width="45%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Of-Arte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-      </td>
     </tr>
-  </table>
 </div>
 
 <br/>
@@ -34,7 +30,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Of-Arte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=60&section=footer&reversal=false" width="100%" />
 
 <br/>
 
@@ -55,17 +50,7 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,docker,git&theme=dark" />
 </details>
-
 <br/>
-
-<details open>
-<summary><b>Frontend</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,js,ts&theme=dark" />
-</details>
-
-<br/>
-
 <details open>
 <summary><b>Cloud & DevOps</b></summary>
 <br/>
@@ -76,7 +61,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7B61FF,100:00C9FF&height=60&section=header&reversal=true" width="100%" />
 
 <br/>
 
@@ -86,29 +70,23 @@
 <table border="0" cellspacing="0" cellpadding="10" width="90%">
   <tr>
     <td width="8%" align="center">📦</td>
-    <td><strong>DevOps Experiments</strong> &mdash; Containerized service deployments using Docker and Bash scripting, with Google Cloud as the deployment target. Figuring out how to move local environments to the cloud without losing control of the stack.</td>
+    <td><strong>DevOps Experiments:</strong> Containerized service deployments using Docker and Bash scripting, with Google Cloud as the deployment target. Figuring out how to move local environments to the cloud without losing control of the stack.</td>
   </tr>
   <tr>
     <td align="center">🤖</td>
-    <td><strong>LLM Arena</strong> &mdash; Building a lightweight web application to route, wire, and evaluate local and API-based AI models side by side.</td>
+    <td><strong>LLM Arena:</strong> Building a lightweight web application to route, wire, and evaluate local and API-based AI models side by side.</td>
   </tr>
   <tr>
     <td align="center">🪶</td>
-    <td><strong>OpenClaw &mdash; Autonomous Agent System</strong> &mdash; Exploring agent and skill-based architecture. The goal is an autonomous deployment layer where agents are assigned skills and operate with minimal hand-holding. Still early and genuinely exploratory &mdash; interested in how agent orchestration and skill composition can be made practical rather than just impressive in demos.</td>
+    <td><strong>OpenSwarm:</strong>  Exploring agent and skill based architecture. The goal is an autonomous deployment layer where agents operate with minimal hand holding.</td>
   </tr>
   <tr>
     <td align="center">🎓</td>
-    <td><strong>Academic Integration</strong> &mdash; Translating core AI Software Engineering coursework directly into functional, committed repositories.</td>
+    <td><strong>Academic Integration:</strong> Translating core AI Software Engineering coursework directly into functional, committed repositories.</td>
   </tr>
 </table>
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C9FF,100:7B61FF&height=60&section=footer" width="100%" />
-
-<br/>
 
 <div align="center">
 
@@ -144,7 +122,7 @@
         <img src="https://img.shields.io/badge/CLI-Tool-black?style=flat-square" />
       </a>
       <br/><br/>
-      <p>Modern One-Time Pad cipher engine built on the Vigenère cipher. Vault storage, multi-language support, and full key-mapping traceability via the command line.</p>
+      <p>Modern One-Time Pad cipher engine built on the Vigenère cipher. Vault storage, multi-language support, and full key mapping traceability via the command line.</p>
       <br/>
       <a href="https://github.com/Of-Arte/crypt-workspace">
         <img src="https://img.shields.io/badge/%E2%86%92%20View%20Repo-6E40C9?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
@@ -172,9 +150,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Of-Arte&style=flat-square&color=7B61FF&label=profile+views" alt="profile views" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=80&section=footer" width="100%" />
