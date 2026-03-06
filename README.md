@@ -49,10 +49,6 @@ Currently wiring AI workflows into containers, clouds, and CLIs
 
 <table border="0" cellspacing="0" cellpadding="10" width="90%">
   <tr>
-    <td width="8%" align="center">📦</td>
-    <td><strong>DevOps Experiments:</strong> Containerized service deployments using Docker and Bash scripting on Google Cloud, wired into an OpenRouter + Langfuse observability stack for cost, logging, and monitoring.</td>
-  </tr>
-  <tr>
     <td align="center">🪶</td>
     <td><strong>OpenClaw(Fork):</strong>  Experimenting with agent and skill based architecture. The goal is an autonomous deployment layer where AI clusters operate with minimal hand holding.</td>
   </tr>
