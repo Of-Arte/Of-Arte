@@ -39,7 +39,7 @@ Currently wiring AI workflows into containers, clouds, and CLIs
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **LLMs & Agent Orchestration:**  
-![OpenClaw](https://img.shields.io/badge/OpenClaw-F7DF1E?style=for-the-badge&Color=black)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-2496ED?style=for-the-badge&Color=black)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-4285F4?style=for-the-badge&logo=langfuse&logoColor=white)
 
