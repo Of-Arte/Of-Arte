@@ -36,12 +36,12 @@ Currently wiring AI workflows into containers, clouds, and CLIs
 **Tools & Workflows:**  
 ![CLI](https://img.shields.io/badge/CLI_First-FCC624?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)
-![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=gnubash&logoColor=white)
+![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **LLMs & Agent Orchestration:**  
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-2496ED?style=for-the-badge&Color=black)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-4285F4?style=for-the-badge&logo=langfuse&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
 <div align="center">
