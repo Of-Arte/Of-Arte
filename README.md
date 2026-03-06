@@ -1,11 +1,10 @@
+text
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=Art%C3%A8%20Of%20Programming&fontSize=50&fontAlignY=40&desc=AI%20Software%20Engineering%20Student&descAlignY=65&descSize=20&animation=fadeIn&fontColor=ffffff" width="70%" />
-</div>
+  
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=220&section=header&text=&descAlignY=70&animation=fadeIn&fontColor=ffffff)
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=1200&color=7B61FF&center=true&vCenter=true&width=650&height=45&lines=Building+Python+Backends;Architecting+RESTful+APIs;Deploying+on+Google+Cloud;Experimenting+with+Autonomous+Agents;Bridging+ML+and+Production+Systems" alt="Typing SVG" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=1200&color=7B61FF&center=true&vCenter=true&width=650&height=45&lines=Building+Python+Backends;Architecting+RESTful+APIs;Deploying+on+Google+Cloud;Experimenting+with+Autonomous+Agents;Bridging+ML+and+Production+Systems)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
