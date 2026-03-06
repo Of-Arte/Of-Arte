@@ -35,8 +35,28 @@
 
 <h3>🛠️ Stack</h3>
 
+<table border="0" cellspacing="0" cellpadding="10" width="90%">
+  <tr>
+    <td width="8%" align="center">💻</td>
+    <td><strong>Languages:</strong> Python, JavaScript, TypeScript, HTML/CSS</td>
+  </tr>
+  <tr>
+    <td align="center">🤖</td>
+    <td><strong>AI & Agent Systems:</strong> LLM Integration (Openrouter, Gemini), MCP Protocol, Multi-Agent Orchestration, Prompt Engineering</td>
+  </tr>
+  <tr>
+    <td align="center">⚙️</td>
+    <td><strong>Backend & Tools:</strong> RESTful APIs, Git, Docker, Database Management</td>
+  </tr>
+  <tr>
+    <td align="center">🔧</td>
+    <td><strong>Tools & Concepts:</strong> LLM Integration, Database Management, Technical Troubleshooting</td>
+  </tr>
+</table>
 
+</div>
 
+<br/>
 
 <div align="center">
 <h3>🔭 Currently Executing</h3>
@@ -95,7 +115,7 @@
       <p>Modern One-Time Pad cipher engine built on the Vigenère cipher. Vault storage, multi-language support, and full key mapping traceability via the command line.</p>
       <br/>
       <a href="https://github.com/Of-Arte/crypt-workspace">
-        <img src="https://img.shields.io/badge/%E2%86%92%20View%20Repo-6E40C9?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+        <img src="https://img.shields.io/badge/%E2%96%92%20View%20Repo-6E40C9?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
       </a>
     </td>
     <td align="center" width="33%">
