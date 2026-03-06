@@ -50,7 +50,7 @@ Currently wiring AI workflows into containers, clouds, and CLIs
 <table border="0" cellspacing="0" cellpadding="10" width="90%">
   <tr>
     <td align="center">🪶</td>
-    <td><strong>OpenClaw(Fork):</strong>  Experimenting with agent and skill based architecture. The goal is an autonomous deployment layer where AI clusters operate with minimal hand holding.</td>
+    <td><strong>OpenClaw(Fork):</strong>  Experimenting with agent and skill based architecture. The goal is an autonomous deployment layer where AI clusters operate with minimal hand holding to build modular, scalable systems and web applications.</td>
   </tr>
   <tr>
     <td align="center">🎓</td>
