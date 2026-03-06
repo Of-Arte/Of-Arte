@@ -11,7 +11,7 @@
 ## 👋 About
 
 AI software engineering student
-Building agentic systems that can watch, decide, and act without hand-holding  
+Building agentic systems that can watch, decide, and act without hand holding  
 Mixing Python backends, LLM infra, and DevOps until it feels like one stack  
 Currently wiring AI workflows into containers, clouds, and CLIs  
 
@@ -35,12 +35,12 @@ Currently wiring AI workflows into containers, clouds, and CLIs
 
 **Tools & Workflows:**  
 ![CLI](https://img.shields.io/badge/CLI_First-FCC624?style=for-the-badge&logo=gnubash&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-4DD100?style=for-the-badge&logo=perplexity&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **LLMs & Agent Orchestration:**  
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-F7DF1E?style=for-the-badge&Color=black)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-4DD100?style=for-the-badge&logo=openai&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-4285F4?style=for-the-badge&logo=langfuse&logoColor=white)
 
 
@@ -50,11 +50,11 @@ Currently wiring AI workflows into containers, clouds, and CLIs
 <table border="0" cellspacing="0" cellpadding="10" width="90%">
   <tr>
     <td width="8%" align="center">📦</td>
-    <td><strong>DevOps Experiments:</strong> Containerized service deployments using Docker and Bash scripting, with Google Cloud as the deployment target. Figuring out how to move local environments to the cloud without losing control of the stack.</td>
+    <td><strong>DevOps Experiments:</strong> Containerized service deployments using Docker and Bash scripting on Google Cloud, wired into an OpenRouter + Langfuse observability stack for cost, logging, and monitoring.</td>
   </tr>
   <tr>
     <td align="center">🪶</td>
-    <td><strong>OpenClaw(Fork):</strong>  Exploring agent and skill based architecture. The goal is an autonomous deployment layer where AI clusters operate with minimal hand holding.</td>
+    <td><strong>OpenClaw(Fork):</strong>  Experimenting with agent and skill based architecture. The goal is an autonomous deployment layer where AI clusters operate with minimal hand holding.</td>
   </tr>
   <tr>
     <td align="center">🎓</td>
