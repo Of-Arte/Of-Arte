@@ -27,27 +27,23 @@ Currently wiring AI workflows into containers, clouds, and CLIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**LLMs & Agent Orchestration:**  
-![OpenClaw](https://img.shields.io/badge/OpenClaw-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-4D4D4D?style=for-the-badge&logo=ollama&logoColor=white)
-![LLM Studio](https://img.shields.io/badge/LLM_Studio-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Backend & Infrastructure:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-4D4D4D?style=for-the-badge&logo=langfuse&logoColor=white)
 
 
 **Tools & Workflows:**  
 ![CLI](https://img.shields.io/badge/CLI_First-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-4D4D4D?style=for-the-badge&logo=perplexity&logoColor=white)
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge)
+
+**LLMs & Agent Orchestration:**  
+![OpenClaw](https://img.shields.io/badge/OpenClaw-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-4D4D4D?style=for-the-badge&logo=langfuse&logoColor=white)
+
 
 <div align="center">
 <h3>🔭 Currently Executing</h3>
