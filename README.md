@@ -17,8 +17,6 @@
         <p>
           Software engineer and AI student currently completing a B.S. in Computer Science @Maestro.
           <br/>
-          My work sits at the intersection of <strong>backend systems</strong>, <strong>LLM integration</strong>, and <strong>DevOps</strong>. 
-          <br/>
           I care about building things that actually run in production.
         </p>
     </tr>
@@ -37,32 +35,8 @@
 
 <h3>🛠️ Stack</h3>
 
-<details open>
-<summary><b>Languages</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=py,js,ts,bash&theme=dark" />
-</details>
-
-<br/>
-
-<details open>
-<summary><b>Backend & Infrastructure</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,docker,git&theme=dark" />
-</details>
-<br/>
-<details open>
-<summary><b>Cloud & DevOps</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=gcp,linux,ubuntu&theme=dark" />
-</details>
-
-</div>
-
-<br/>
 
 
-<br/>
 
 <div align="center">
 <h3>🔭 Currently Executing</h3>
@@ -71,10 +45,6 @@
   <tr>
     <td width="8%" align="center">📦</td>
     <td><strong>DevOps Experiments:</strong> Containerized service deployments using Docker and Bash scripting, with Google Cloud as the deployment target. Figuring out how to move local environments to the cloud without losing control of the stack.</td>
-  </tr>
-  <tr>
-    <td align="center">🤖</td>
-    <td><strong>LLM Arena:</strong> Building a lightweight web application to route, wire, and evaluate local and API-based AI models side by side.</td>
   </tr>
   <tr>
     <td align="center">🪶</td>
