@@ -34,14 +34,14 @@ Currently wiring AI workflows into containers, clouds, and CLIs
 
 
 **Tools & Workflows:**  
-![CLI](https://img.shields.io/badge/CLI_First-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-4D4D4D?style=for-the-badge&logo=perplexity&logoColor=white)
-![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI_First-FCC624?style=for-the-badge&logo=gnubash&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-4DD100?style=for-the-badge&logo=perplexity&logoColor=white)
+![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **LLMs & Agent Orchestration:**  
-![OpenClaw](https://img.shields.io/badge/OpenClaw-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-4D4D4D?style=for-the-badge&logo=langfuse&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-F7DF1E?style=for-the-badge&Color=black)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-4DD100?style=for-the-badge&logo=openai&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-4285F4?style=for-the-badge&logo=langfuse&logoColor=white)
 
 
 <div align="center">
