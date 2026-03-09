@@ -12,8 +12,7 @@
 
 AI software engineering student
 building agentic systems that can plan, execute, and verify without hand holding  
-Mixing Python backends, LLM infra, and DevOps until it feels like one stack  
-Currently wiring AI workflows into containers, clouds, and CLIs  
+Currently wiring those AI workflows into containers, clouds, and CLIs  
 
 </div>
 
