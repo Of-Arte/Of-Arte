@@ -11,7 +11,7 @@
 ## 👋 About
 
 AI software engineering student
-building agentic systems that can plan, execute, and verify without hand holding  
+building agentic designing that can plan, execute, and verify without hand holding  
 Currently wiring those AI workflows into containers, clouds, and CLIs  
 
 </div>
