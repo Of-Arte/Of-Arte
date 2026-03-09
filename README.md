@@ -12,7 +12,8 @@
 
 AI software engineering student
 designing agents that can plan, execute, and verify without hand holding  
-Currently wiring those AI workflows into containers, clouds, and CLIs  
+Currently wiring those AI workflows into containers, clouds, and CLIs
+Active deployments: software development, finance, DevOps, content generation, digital marketing
 
 </div>
 
