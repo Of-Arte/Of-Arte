@@ -30,17 +30,13 @@ Currently wiring those AI workflows into containers, clouds, and CLIs
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
 **Workflow Tools:**  
-![CLI](https://img.shields.io/badge/CLI_First-FCC624?style=for-the-badge&logo=gnubash&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-FFCA28?style=for-the-badge&Color=black)
 
-**Agent Orchestration:**  
-![OpenClaw](https://img.shields.io/badge/OpenClaw-2496ED?style=for-the-badge&Color=black)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
 <div align="center">
@@ -98,17 +94,17 @@ Currently wiring those AI workflows into containers, clouds, and CLIs
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Of-Arte/read-it-later/">
+      <a href="https://github.com/Of-Arte/AGK-KIT/">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=3000&color=0099CC&center=true&vCenter=true&width=280&lines=read-it-later;Terminal+URL+Manager" alt="read-it-later" />
       </a>
       <br/>
-      <a href="https://github.com/Of-Arte/read-it-later/">
+      <a href="https://github.com/Of-Arte/AGK-KIT/">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </a>
       <br/><br/>
-      <p>Terminal based Python application that manages saved URLs using classic data structures to organize and streamline reading workflows.</p>
+      <p>A minimal, opinionated starter kit for orchestrating reliable coding agents in Google Antigravity IDE.</p>
       <br/>
-      <a href="https://github.com/Of-Arte/read-it-later/">
+      <a href="https://github.com/Of-Arte/AGK-KIT/">
         <img src="https://img.shields.io/badge/%E2%86%92%20View%20Repo-0099CC?style=for-the-badge&logo=python&logoColor=white" />
       </a>
     </td>
