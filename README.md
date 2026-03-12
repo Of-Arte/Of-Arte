@@ -65,14 +65,14 @@ Currently wiring those AI workflows into containers, clouds, and CLIs
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Of-Arte/maestro-ubuntu">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=3000&color=E95420&center=true&vCenter=true&width=280&lines=maestro-ubuntu;Ubuntu+24.04+LTS+Dev+Env" alt="maestro-ubuntu" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=3000&color=E95420&center=true&vCenter=true&width=280&lines=Maestro+Ubuntu;The+AI+SWE+collection" alt="maestro-ubuntu" />
       </a>
       <br/>
       <a href="https://github.com/Of-Arte/maestro-ubuntu">
         <img src="https://img.shields.io/badge/Shell-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
       </a>
       <br/><br/>
-      <p>Standalone Ubuntu 24.04 LTS development environment built for Maestro AI Software Engineering students. Automated setup, reproducible tooling, zero config drift.</p>
+      <p>Standalone Ubuntu development environment with a collection of libraries used in AI Software Engineering. Automated setup for zero config drift.</p>
       <br/>
       <a href="https://github.com/Of-Arte/maestro-ubuntu">
         <img src="https://img.shields.io/badge/%E2%86%92%20View%20Repo-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -80,7 +80,7 @@ Currently wiring those AI workflows into containers, clouds, and CLIs
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Of-Arte/Orbis-search">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=3000&color=6E40C9&center=true&vCenter=true&width=280&lines=Orbis+Search;Built+For+Anitgravity+IDE" alt="crypt-workspace" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=3000&color=6E40C9&center=true&vCenter=true&width=280&lines=Orbis+Search;Designed+For+Anitgravity+IDE" alt="crypt-workspace" />
       </a>
       <br/>
       <a href="https://github.com/Of-Arte/Orbis-search">
@@ -95,7 +95,7 @@ Currently wiring those AI workflows into containers, clouds, and CLIs
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Of-Arte/AGK-KIT/">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=3000&color=0099CC&center=true&vCenter=true&width=280&lines=read-it-later;Terminal+URL+Manager" alt="read-it-later" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=3000&color=0099CC&center=true&vCenter=true&width=280&lines=Antigravity+Agent+Kit;Ship+w/+Agents;" alt="read-it-later" />
       </a>
       <br/>
       <a href="https://github.com/Of-Arte/AGK-KIT/">
