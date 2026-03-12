@@ -49,7 +49,7 @@ Currently wiring those AI workflows into containers, clouds, and CLIs
   </tr>
   <tr>
     <td align="center">🎓</td>
-    <td><strong>Academic Integration:</strong> Translating core AI Software Engineering coursework directly into functional, committed repositories.</td>
+    <td><strong>Academic Integration:</strong> Translating core AI Software Engineering coursework directly into functional repositories.</td>
   </tr>
 </table>
 
