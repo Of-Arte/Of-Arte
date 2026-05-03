@@ -10,10 +10,9 @@
   
 ## 👋 About
 
-AI software engineering student
-designing agents that can plan, execute, and verify.
-Currently wiring those AI workflows into containers, clouds, and CLIs
+I build autonomous agent infrastructure and open-source developer tooling. Currently completing my B.S. in Computer Science, Business & AI at Maestro University, while actively engineering within the OpenClaw and Hermes ecosystems.
 
+I spend my time bridging theoretical AI capabilities, configuring API integrations, and contributing to open-source agent ecosystems.
 </div>
 
 <div align="center">
@@ -42,7 +41,7 @@ Currently wiring those AI workflows into containers, clouds, and CLIs
 <table border="0" cellspacing="0" cellpadding="10" width="90%">
   <tr>
     <td align="center">🪶</td>
-    <td><strong>Hermes Agent(Fork):</strong>  Experimenting with agent and skill based architecture. The goal is an autonomous development layer where AI operates with minimal hand holding to build and maintain web applications.</td>
+    <td><strong>Agent Oculus(Hermes Agent):</strong>  Experimenting with agent and skill based architecture. The goal is an autonomous financial analysis agent using WorldMonitor to provide trading insights via parallelized market data fetching.</td>
   </tr>
   <tr>
     <td align="center">🎓</td>
