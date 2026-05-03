@@ -10,7 +10,7 @@
   
 ## 👋 About
 
-I build autonomous agent infrastructure and open-source developer tooling. Currently completing my B.S. in Computer Science, Business & AI at Maestro University, while actively engineering within the OpenClaw and Hermes ecosystems.
+I build agent infrastructure and open-source developer tooling. Currently completing my B.S. in Computer Science, Business & AI at Maestro University.
 
 I spend my time bridging theoretical AI capabilities, configuring API integrations, and contributing to open-source agent ecosystems.
 </div>
@@ -77,7 +77,7 @@ I spend my time bridging theoretical AI capabilities, configuring API integratio
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Of-Arte/Orbis-search">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=3000&color=6E40C9&center=true&vCenter=true&width=280&lines=Orbis+Search;Designed+For+Anitgravity+IDE" alt="crypt-workspace" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=3000&color=6E40C9&center=true&vCenter=true&width=280&lines=Orbis+Search;Designed+For+Anitgravity+IDE" alt="Orbis-search" />
       </a>
       <br/>
       <a href="https://github.com/Of-Arte/Orbis-search">
@@ -91,17 +91,17 @@ I spend my time bridging theoretical AI capabilities, configuring API integratio
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Of-Arte/AGK-KIT/">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=3000&color=0099CC&center=true&vCenter=true&width=280&lines=Antigravity+Agent+Kit;Ship+w/+Agents;" alt="read-it-later" />
+      <a href="https://github.com/Of-Arte/Clawvoyant/">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=3000&color=0099CC&center=true&vCenter=true&width=280&lines=Clawvoyant;No+API+keys+needed;" alt="Clawvoyant" />
       </a>
       <br/>
-      <a href="https://github.com/Of-Arte/AGK-KIT/">
+      <a href="https://github.com/Of-Arte/Clawvoyant/">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </a>
       <br/><br/>
-      <p>A minimal, opinionated starter kit for orchestrating reliable coding agents in Antigravity IDE.</p>
+      <p>OpenClaw native skill granting agents YouTube search and context extraction capabilities.</p>
       <br/>
-      <a href="https://github.com/Of-Arte/AGK-KIT/">
+      <a href="https://github.com/Of-Arte/Clawvoyant/">
         <img src="https://img.shields.io/badge/%E2%86%92%20View%20Repo-0099CC?style=for-the-badge&logo=python&logoColor=white" />
       </a>
     </td>
