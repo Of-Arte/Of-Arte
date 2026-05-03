@@ -40,12 +40,12 @@ I spend my time bridging theoretical AI capabilities, configuring API integratio
 
 <table border="0" cellspacing="0" cellpadding="10" width="90%">
   <tr>
-    <td align="center">🪶</td>
-    <td><strong>Agent Oculus(Hermes Agent):</strong>  Experimenting with agent and skill based architecture. The goal is an autonomous financial analysis agent using WorldMonitor to provide trading insights via parallelized market data fetching.</td>
-  </tr>
-  <tr>
     <td align="center">🎓</td>
     <td><strong>Academic Integration:</strong> Translating core AI Software Engineering coursework directly into functional repositories.</td>
+  </tr>
+  <tr>
+    <td align="center">🪶</td>
+    <td><strong>Agent Oculus:</strong>  Experimenting with agent and skill based architecture. The goal is an autonomous financial analysis agent using WorldMonitor to provide trading insights via parallelized market data fetching.</td>
   </tr>
 </table>
 
