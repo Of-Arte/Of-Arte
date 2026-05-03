@@ -34,6 +34,7 @@ I spend my time bridging theoretical AI capabilities, configuring API integratio
 
 **Workflow Tools:**  
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 
 <div align="center">
 <h3>🔭 Currently Executing</h3>
