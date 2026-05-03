@@ -10,7 +10,7 @@
   
 ## 👋 About
 
-I build agent infrastructure and developer tooling. Currently completing my B.S. in Computer Science, Business & AI at Maestro University.
+I build agent infrastructure and developer tooling. Currently completing my B.S. in Computer Science, Business & AI.
 
 I spend my time bridging theoretical AI capabilities, configuring API integrations, and contributing to open-source agent ecosystems.
 </div>
